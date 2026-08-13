@@ -10,5 +10,5 @@ int main() {
     cout << "A starting point like 1, then, ";
     solve(a,b);
     cout << "I hope I can find something I truly love." << endl;
-    cout << "Maybe today...";
+    cout << "Maybe today..." << endl;
 }
